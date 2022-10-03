@@ -1,7 +1,7 @@
 export default {
   HOST: "localhost",
   USER: "postgres",
-  PASSWORD: "toho12345",
+  PASSWORD: "kepoloe123",
   DB: "testdb",
   dialect: "postgres",
 };
